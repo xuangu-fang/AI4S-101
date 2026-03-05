@@ -20,6 +20,10 @@ data/*.7z
 # Old geometry test files (not used)
 data/Cylinder2DGeom.*
 
+# Local planning / prompt files (do not sync)
+Prompt.md
+to-do.md
+
 # Model weights and large outputs (optional)
 outputs/*.pth
 outputs/*.gif
